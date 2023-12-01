@@ -1,0 +1,5 @@
+realm = "ssh-realm"
+endpoint = "https://kc.example.com"
+clientid = "kc-client-id"
+clientsecret = "dc2620ff-4978-4068-8e1b-0a788ffa34db"
+clientscop = "openid"
